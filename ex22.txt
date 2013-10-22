@@ -1,0 +1,20 @@
+print - prints information to standard out. You can print concatenated strings seperated by ',' and with variable names in between. You can also print a string and substitute special formatter types (%s, %r, %i) with variables that following a '%' symbol after the print statement. If you have a lot of variable substitutions, you put them in brackets and seperate them with a ','.
+# - prefaces comments in code
+Math Symbols:
++ plus - addition
+- minus - subtraction
+/ slash - division (whole number division when working with integers)
+* asterisk - multiplication
+% percent - modulous (remainer, when working with integers)
+< less-than - boolean true if less, otherwise false
+> greater-than - boolean true if greater than, otherwise false
+<= less-than-equal - boolean true if less than or equal to, otherwise false
+>= greater-than-equal - boolean true if greater than or equal to, otherwise, false
+== equal to - boolean true if variables are equal, otherwise false
+!= not equal to - boolean true if variables are not equal, otherwise true
+is - object identity
+is not - negated object identity
+
+Notes on Variables
+local variables can be set by writing a non defined name and setting it equal to a value using '='. You can apply some mathematical expression when setting variables.
+import - 
